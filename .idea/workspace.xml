@@ -21,15 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="63">
-                <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,12 +36,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/wallaby.js" />
         <option value="$PROJECT_DIR$/Source/SideFx.js" />
         <option value="$PROJECT_DIR$/Tests/SideFx.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -175,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460084201643</updated>
-      <workItem from="1460084203433" duration="969000" />
+      <workItem from="1460084203433" duration="1028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="969000" />
+    <option name="totallyTimeSpent" value="1028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-31" width="1920" height="1111" extended-state="6" />
@@ -212,14 +209,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wallaby.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -250,14 +239,14 @@
         <state relative-caret-position="672">
           <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding>
-            <marker date="1460084408024" expanded="true" signature="0:773" placeholder="{&quot;name&quot;: &quot;sidefx-core&quot;...}" />
-            <marker date="1460084408024" expanded="true" signature="122:185" placeholder="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
-            <marker date="1460084408024" expanded="true" signature="203:288" placeholder="{&quot;type&quot;: &quot;git&quot;...}" />
-            <marker date="1460084408024" expanded="true" signature="304:347" placeholder="[...]" />
-            <marker date="1460084408024" expanded="true" signature="411:476" placeholder="{&quot;url&quot;: &quot;https://github.com/SideFxJS/SideFx-Core/issues&quot;...}" />
-            <marker date="1460084408024" expanded="true" signature="489:532" placeholder="{...}" />
-            <marker date="1460084408024" expanded="true" signature="506:528" placeholder="[...]" />
-            <marker date="1460084408024" expanded="true" signature="619:771" placeholder="{&quot;babel-core&quot;: &quot;^6.1.2&quot;...}" />
+            <marker date="1460084990614" expanded="true" signature="0:798" placeholder="{&quot;name&quot;: &quot;sidefx-core&quot;...}" />
+            <marker date="1460084990614" expanded="true" signature="122:185" placeholder="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
+            <marker date="1460084990614" expanded="true" signature="203:288" placeholder="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1460084990614" expanded="true" signature="304:347" placeholder="[...]" />
+            <marker date="1460084990614" expanded="true" signature="411:476" placeholder="{&quot;url&quot;: &quot;https://github.com/SideFxJS/SideFx-Core/issues&quot;...}" />
+            <marker date="1460084990614" expanded="true" signature="489:532" placeholder="{...}" />
+            <marker date="1460084990614" expanded="true" signature="506:528" placeholder="[...]" />
+            <marker date="1460084990614" expanded="true" signature="619:796" placeholder="{&quot;babel-core&quot;: &quot;^6.1.2&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -277,11 +266,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="63">
-            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
